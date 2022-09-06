@@ -10,6 +10,6 @@
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        TextBox1.Text = "Updated version"
+        TextBox1.Text = "Update"
     End Sub
 End Class
